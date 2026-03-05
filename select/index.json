@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "恋煩い",
+  "base_artist": "Hello Sleepwalkers",
+  "createdAt": "2026-03-05T09:28:26.061075Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋煩い",
+      "artist": "Maiko Fujita",
+      "has_synced": true,
+      "path": "select/01_恋煩い_Maiko_Fujita.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋煩い",
+      "artist": "Hiromi",
+      "has_synced": false,
+      "path": "select/02_恋煩い_Hiromi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋煩い",
+      "artist": "あれくん",
+      "has_synced": true,
+      "path": "select/03_恋煩い_あれくん.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋煩い",
+      "artist": "リュックと添い寝ごはん",
+      "has_synced": true,
+      "path": "select/04_恋煩い_リュックと添い寝ごはん.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋煩い",
+      "artist": "Hello Sleepwalkers",
+      "has_synced": false,
+      "path": "select/pl_01_恋煩い_Hello_Sleepwalkers.txt"
+    }
+  ]
+}
